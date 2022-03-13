@@ -1,0 +1,83 @@
+<resources>
+
+    <string name="app_name">Library Inventory</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="action_delete_all_entries">Delete All Books</string>
+
+    <string name="editor_activity_title_new_book">Add a Book</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="category_overview">Book</string>
+
+    <string name="category_quant">Quantity</string>
+
+    <string name="category_supplier">Supplier</string>
+
+    <string name="hint_book_name">Title</string>
+
+    <string name="hint_book_price"> $ Price</string>
+
+    <string name="hint_book_supplier">Name</string>
+
+    <string name="hint_book_supplier_number">Number</string>
+
+    <string name="hint_book_quant">Number</string>
+
+    <string name="editor_insert_book_successful">Book saved</string>
+
+    <string name="editor_insert_book_failed">Error with saving book</string>
+
+    <string name="empty_view_title_text">It\'s a bit empty here...</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding a book</string>
+
+    <string name="editor_activity_title_edit_book">Edit Book</string>
+
+    <string name="detail_activity_title">Book Details</string>
+
+    <string name="editor_update_book_successful">Book updated</string>
+
+    <string name="editor_update_book_failed">Error with updating book</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_book_successful">Book deleted</string>
+
+    <string name="editor_delete_book_failed">Error with deleting book</string>
+
+    <string name="delete_dialog_msg">Delete this book?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="editor_negative_quant">Zero quantities not accepted</string>
+
+    <string name="action_sell">Sell</string>
+
+    <string name="action_edit">Edit</string>
+
+    <string name="category_price">Price ($)</string>
+
+    <string name="category_number">Supplier Phone Number</string>
+
+    <string name="action_call">CALL</string>
+
+    <string name="blank">field is blank</string>
+
+    <string name="delete_all_dialog_msg">Are you sure you want to permanently remove all books?</string>
+
+    <string name="product_sold">Item Sold</string>
+
+    <string name="no_quantity">You need to register more items</string>
+
+</resources>
